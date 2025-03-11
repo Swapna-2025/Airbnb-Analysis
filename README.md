@@ -4,12 +4,16 @@ Have a look.
 # Airbnb EDA Project
 ![image](https://jayvas.com/wp-content/uploads/2020/11/airbnb-real-estate-company.jpg)
 
-*Summary of this Project*-
+*Summary of this Project*:-
 
 Airbnb is an American company operating an online marketplace for short-and-long-term homestays and experiences in various countries and regions. It acts as a broker and charges a commission from each booking. Airbnb was founded in 2008 by Brian Chesky, Nathan Blecharczyk, and Joe Gebbia. It is the best-known company for short-term housing rentals. It currently covers more than 100,000 cities and 220 countries worldwide.
 For hosts, it's a way to earn money while protecting their property from potential damage. However, for guests, it's a risky venture that they should avoid.
 
 For this project we are analyzing Airbnb’s New York City(NYC) data of 2019. NYC is not only the most famous city in the world but also top global destination for visitors drawn to its museums, entertainment, restaurants and commerce. According to the Office of New York State Comptroller, NYC hosted 66.6 million visitors in 2019.
+
+ *Objective of this project*:-
+
+The objective of conducting an Exploratory Data Analysis (EDA) on Airbnb data is to uncover insights, patterns, and trends that can help stakeholders (e.g., hosts, guests, Airbnb itself, or analysts) make informed decisions.
 
 Data analysis on thousands of listings provided through Airbnb is a crucial factor for the company.
 Our main objective is to find out the key metrics that influence the listing of properties on the platform. For this, we will explore and visualize the dataset from Airbnb in NYC using basic exploratory data analysis (EDA) techniques.
