@@ -1,5 +1,5 @@
 # Airbnb EDA Project
-![airbnb]("C:\Users\MRITYUNJOY BISWAS\Desktop\airbnb-real-estate-company.jpg")
+![image](https://jayvas.com/wp-content/uploads/2020/11/airbnb-real-estate-company.jpg)
 
 *Summary of this Project*-
 
