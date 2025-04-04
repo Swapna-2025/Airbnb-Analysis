@@ -4,6 +4,27 @@ Have a look.
 # Airbnb EDA Project
 ![image](https://jayvas.com/wp-content/uploads/2020/11/airbnb-real-estate-company.jpg)
 
+
+
+
+![Screenshot 2025-04-04 195150](https://github.com/user-attachments/assets/7772c2b4-d85c-4620-813a-dab8587b6748)
+
+
+
+
+
+
+
+
+![Screenshot 2025-04-04 201359](https://github.com/user-attachments/assets/9ba87fd3-6c06-4934-b3a1-a03956b43965)
+
+
+
+
+
+
+
+
 **✍️ Table Of Contents**:-
 
 
